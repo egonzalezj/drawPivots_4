@@ -1,2 +1,3 @@
-# drawPivots_4
-###Testing drawPivots function
+# drawPivots Test v4.0
+### Avatar API
+Testing drawPivots function

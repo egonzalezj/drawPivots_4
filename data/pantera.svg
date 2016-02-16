@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="400"
+   height="400"
+   viewBox="0 0 400 400">
+  <defs>
+    <linearGradient
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1" />
+    </linearGradient>
+    <linearGradient>
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4229"
+       x1="187.1"
+       y1="42.5"
+       x2="205.2"
+       y2="42.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g id="puppet">
+    <g id="m5">
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+         id="pivot_m5"
+         cx="199.9"
+         cy="267.1"
+         r="0" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+         d="m 223.4,288.9 c 20.6,16.6 86.8,29 110.6,23.4 23.8,-5.6 44.3,8.7 39.7,27.1 -8.2,26.3 -21.7,19.8 -32.3,14.3 -10.6,-5.4 -16,-27.6 -16,-27.6 0,0 -71.5,0.3 -107.2,-29.6 -15.3,-14.5 -19.3,-20.1 -19.3,-20.1 0,0 -2.5,-4.3 -2.2,-7.9 0.2,-3.2 3.9,-5.2 6.7,-3.7 2.9,6.7 -0.2,7.6 19.9,24.1 z" />
+    </g>
+    <g id="m6">
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+         id="pivot_m6"
+         cx="117.7"
+         cy="276.6"
+         r="0" />
+      <path
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none"
+         d="m 123.9,333.9 c -13.8,11 -42,0.2 -45.9,-16.2 -1.3,-1.1 14.1,-46.3 19.6,-49.5 22.9,-10.4 41.4,7.6 41.8,19.8 0.2,6.6 -14.6,45.1 -15.5,45.9 z" />
+      <g id="m7">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+           id="pivot_m7"
+           cx="101.9"
+           cy="324.1"
+           r="0" />
+        <path
+           style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none"
+           d="m 79.2,314.4 c -5.1,5.6 -9.6,42.4 -12.1,48.4 -5.6,-3 -12.2,-8.7 -22.9,-4.9 -16,5.6 -39.5,32.8 18.4,40.8 28.8,4 39.8,-5.1 39.8,-5.1 0,0 21.6,-51.5 22.3,-61.9 -1,-11.8 -27.6,-29.7 -45.4,-17.4 z" />
+      </g>
+    </g>
+    <g id="m8">
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+         id="pivot_m8"
+         cx="186"
+         cy="278.5"
+         r="0" />
+      <path
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none"
+         d="m 162.8,291.9 c -1.6,5.4 14,45.5 19.2,48.6 18.4,11.2 44.7,-2.5 42.5,-21.8 -0.4,-3.6 -9.3,-41.2 -13.7,-44.9 -12.6,-9.3 -43.8,-2.3 -48,18 z" />
+      <g id="m9">
+        <circle
+           style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+           id="pivot_m9"
+           cx="199.9"
+           cy="324.1"
+           r="0" />
+        <path
+           style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none"
+           d="m 176.6,328.8 c -1.8,3.8 13,42.7 27.9,62.5 5.3,7.1 19.3,10.1 47.7,7.1 23.1,-2.4 23.6,-17.6 14.9,-32 -10.3,-17 -31.9,-9.4 -31.9,-9.4 -3.8,-15.2 -7.7,-29.2 -11.5,-43.2 -21,-8.4 -36.5,-3.5 -47.1,15.1 z" />
+      </g>
+    </g>
+    <path
+       style="fill:#0044aa;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.9,225.7 c -25.7,-1.8 -44.2,10.5 -44.2,10.5 0,0 -2.8,4.7 -8.6,14.5 -5.8,9.8 -9.3,21.3 -9.3,21.3 0,0 13.2,5.7 23.1,11 9.8,5.3 24.3,13.6 27.9,14.7 3.6,-5.5 11.2,-17.7 11.2,-17.7 2,4.6 5.5,15.8 6.9,21 1.2,1 29.7,-9.4 29.7,-9.4 0,0 24.4,-9.4 26.3,-9.4 1.9,0 -8.5,-24.2 -8.5,-24.2 0,0 -5.9,-19.3 -8.8,-21.4 -3,-2.2 -19.9,-9 -45.6,-10.9 z" />
+    <line
+       style="fill:#87de87;stroke:#ffffff;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       y2="275.2"
+       x2="101.1"
+       y1="236.3"
+       x1="121"
+       stroke-miterlimit="10" />
+    <line
+       style="fill:#87de87;stroke:#ffffff;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       y2="273.1"
+       x2="96.5"
+       y1="236"
+       x1="116.7"
+       stroke-miterlimit="10" />
+    <path
+       style="fill:#0044aa;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none"
+       d="m 148.2,122.8 c -17.5,0.2 -29.9,2.4 -37.3,4.2 -0.5,11.2 -0.9,21 -1.3,30.9 -0.3,17.6 -2.8,78.2 -2.8,78.2 l 94.5,1.8 c 2,-39.6 2.6,-86.2 2,-109.2 -5.6,-2.6 -22.9,-5 -46.6,-5.7 -3,-0.1 -5.8,-0.1 -8.5,-0.1 z" />
+    <path
+       d="m 131.9,129.4 c -0.6,3.1 6,14.9 28,14.6 22,-0.4 27.8,-10.6 27.8,-14.6 0,-3.9 -2.5,-8.3 -27.9,-7.5 -25.3,-2.4 -27.3,4.3 -27.9,7.5 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5" />
+    <g id="m0">
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+         id="pivot_m0"
+         cx="158.8"
+         cy="131.1"
+         r="0" />
+      <path
+         d="m 159.4,0.3 c 15.4,-0.4 24.8,10.1 24.8,10.1 0,0 31.5,-17.2 41.8,3.9 10.3,21.1 -2.4,40.4 -2.4,40.4 0,0 15.6,15.4 12.7,32.9 -9.5,46 -62.4,45.1 -76.9,46.9 -43.1,1.2 -76,-32.2 -76.3,-55.5 -1,-14.2 7.8,-22.8 7.8,-22.8 0,0 -21.5,-31.8 -3.3,-48.1 18.3,-16.3 48.3,1.4 48.3,1.4 0,0 8.1,-8.9 23.5,-9.2 z"
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none" />
+      <path
+         d="m 160.2,77.4 c 20.1,-16.6 34.3,13 34.8,22.3 0.2,3.8 0.9,25.3 -35.9,25.9 -40,0.6 -33.6,-30.5 -33.1,-32.6 0.5,-2.1 8,-32.4 34.3,-15.6 z"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+         d="m 139,99.6 c 0,0 -1.5,1.5 -2.2,2.7 -0.7,1.2 -1.2,3.1 -1.2,3.1"
+         stroke-miterlimit="10" />
+      <path
+         stroke-miterlimit="10"
+         d="m 137,102.3 c 0,0 4.5,5.5 12.2,5.7 7.7,0.2 12.5,-5.8 12.5,-5.8 0,0 4.3,6.9 12.3,4.4 8,-2.5 12.1,-9.3 12.1,-9.3"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+         d="m 183.9,95.2 c 0,0 1.5,0.8 2.3,1.8 0.8,1 1.5,2.8 1.5,2.8"
+         stroke-miterlimit="10" />
+      <path
+         d="m 159.4,75.2 c 5,-0.1 8.2,-4.5 13.6,-4.1 5.4,0.4 7.1,3.1 7.7,5.6 0.5,2.6 -3.4,18 -21.5,18.1 -18,0.1 -20.1,-16.6 -20.2,-19.6 -0.1,-2.6 2.3,-3.8 6.5,-4 6.2,-0.2 8.8,4 13.9,3.9 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5" />
+      <ellipse
+         cx="125.9"
+         cy="61.6"
+         rx="13"
+         ry="12.7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none" />
+      <ellipse
+         cx="125.9"
+         cy="61.6"
+         rx="9.5"
+         ry="9.2"
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5" />
+      <ellipse
+         cx="193"
+         cy="61.6"
+         rx="13"
+         ry="12.7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none" />
+      <ellipse
+         cx="193"
+         cy="61.6"
+         rx="9.5"
+         ry="9.2"
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5" />
+      <path
+         d="m 123.1,35.4 c 6,-2.8 9.7,3.1 8.5,2.9 -3.3,-0.5 -5,-0.7 -8.3,0.5 -3.3,1.2 -4.3,4.7 -5.2,4.2 -0.9,-0.5 -1,-4.7 5,-7.6 z"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none;fill-opacity:1" />
+      <path
+         d="m 193.9,19.9 c -1.3,-0.5 16.2,-13.2 27.2,1.8 8.7,17.2 -2.6,27.8 -3.5,25.8 -0.9,-2 -22.5,-27.1 -23.7,-27.7 z"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none" />
+      <path
+         d="m 125.3,17.5 c -4,3.4 -31.5,31.3 -30.4,32.2 1.1,0.9 -8.1,-15.9 2.5,-28.4 10.7,-12.5 26.2,-5.4 27.9,-3.8 z"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none" />
+      <path
+         d="m 189.2,40.7 c -0.7,0.1 3.5,-4.9 9.8,-1.7 6.3,3.3 3.7,8 3.3,8.1 -0.5,0.1 -2.4,-3.2 -5.1,-4.6 -2.7,-1.4 -7.3,-1.9 -8,-1.8 z"
+         style="fill:url(#linearGradient4235);stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1" />
+      <path
+         style="fill:#b3b3b3;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 188.5,40.9 c 4,-4.2 6.9,-4.1 11.4,-1.9 4,2.9 4.1,5.3 2.8,8.8 -4.1,-4.8 -8.2,-6.2 -14.2,-6.9 z"/>
+      <path
+         d="m 117.4,42.5 c 0.6,-5.8 2.9,-7.5 7.8,-8.5 5,-0.1 6.5,1.7 7.6,5.2 -6.2,-1.2 -10.3,0.1 -15.4,3.3 z"
+         style="fill:#b3b3b3;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g id="m1">
+      <circle
+         id="pivot_m1"
+         cx="112.7"
+         cy="143.8"
+         r="0"
+         style="display:none;visibility:hidden;opacity:1;fill:#ff0000;stroke:#ffa500;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5" />
+      <path
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none"
+         d="m 101.6,156.5 c -2.3,10.4 -0.5,46.5 0.5,48.9 3.7,9.8 21.2,8.9 24.8,-1.7 1.7,-3.5 1.3,-40.3 -1.5,-46.9 -6.6,-8.2 -16.3,-8 -23.8,-0.3 z" />
+      <path
+         style="fill:#0044aa;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none"
+         d="m 99.9,163.7 c 1.2,0.6 29.5,1.1 30.2,0 2.8,-55.2 -38.9,-43.9 -30.2,-0 z" />
+      <g id="m2">
+        <circle
+           style="display:none;visibility:hidden;opacity:1;fill:#ff0000;stroke:#ffa500;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+           r="0"
+           cy="200.7"
+           cx="113.3"
+           id="pivot_m2" />
+        <path
+           d="m 104.6,197.4 c -6.4,5.5 1.6,32.4 -0.7,32.9 -2.3,0.5 -8.9,-8.6 -13.5,-5.3 -4.6,3.3 -11,15.6 1.8,26.4 12.8,10.8 29.4,6.3e-4 33.3,-9.6 2.2,-11.1 4.7,-39.6 -2.9,-45 -8.4,-5 -11.1,-5.5 -18.1,0.7 z"
+           style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g id="m3">
+      <circle
+         id="pivot_m3"
+         cx="203.7"
+         cy="143.8"
+         r="0"
+         style="display:none;visibility:hidden;opacity:1;fill:#ff0000;stroke:#ffa500;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5" />
+      <path
+         style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none"
+         d="m 193.2,155 c -2.2,2.9 -2.9,43 -1.4,44.5 7.3,9.4 17.5,9.7 24.2,0.2 0.8,-4.1 -0.1,-38.9 -2.2,-44.3 -3.6,-6.7 -14.5,-7.7 -20.6,-0.3 z" />
+      <path
+         d="m 188.7,165.8 c 1.2,0.6 29.5,1.1 30.2,0 2.8,-55.2 -38.9,-43.9 -30.2,-0 z"
+         style="fill:#0044aa;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none" />
+      <g id="m4">
+        <circle
+           style="display:none;visibility:hidden;opacity:1;fill:#ff0000;stroke:#ffa500;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5"
+           r="0"
+           cy="200.7"
+           cx="204.4"
+           id="pivot_m4" />
+        <path
+           d="m 217.9,230.9 c -2.3,-4.4 1.3,-29.7 -4.2,-36.4 -5.4,-7.3 -12.4,-6.2 -20.2,0.9 -3.7,5.3 -0.3,44.5 5.3,48 5.2,3.3 20.9,15.4 34.2,2.9 13.4,-12.5 -0.4,-26.7 -3.9,-24 -3.5,2.7 -8.7,9.3 -11.3,8.7 z"
+           style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.5;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>

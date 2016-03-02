@@ -30,7 +30,9 @@ class Vector {
   }
   
   public void scale(float size) {
+    //println("(" + this.x + ", " + this.y + ")");
     this.x *= size;
     this.y *= size;
+    //println("(" + this.x + ", " + this.y + ")");
   }
 }

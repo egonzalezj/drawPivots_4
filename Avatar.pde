@@ -38,8 +38,14 @@ class Avatar {
   public void draw() {
     float x = this.x - this.cx;
     float y = this.y - this.cy;
+    //shape(puppet, 50 + x, -15 + y);
+    //fill(0, 255, 0);
+    //translate(puppet.width/2, puppet.height/2);
+    //rotate(60);
+    //translate(-puppet.width/2, puppet.height/2);
+    //rect(x, y, puppet.width, puppet.height);
     shape(puppet, x, y);
-    //println("x=" + x + ", " + "y=" + y);
+    println("x=" + x + ", " + "y=" + y);
   }
   
   public void draw(float x, float y) {
@@ -58,12 +64,14 @@ class Avatar {
   public void scale(float size) {
     this.puppet.scale(size);
     this.puppet.width *= size;
-    this.cx = this.puppet.width / 2.0;
     this.puppet.height *= size;
+    this.cx = this.puppet.width / 2.0;
     this.cy = this.puppet.height / 2.0;
     Vector[] p = this.pivot;
     for(int i=0; i<this.joints(); i++) {
+      //println("(" + p[i].x + ", " + p[i].y + ")");
       p[i].scale(size);
+      //println("(" + p[i].x + ", " + p[i].y + ")");
     }
     this.scala *= size;
   }
@@ -79,7 +87,7 @@ class Avatar {
       //println("(" + p[i].x + ", " + p[i].y + ")");
       p[i].rotate(angle);
       p[i] = new Vector(this.pivot[i].x + this.cx, this.pivot[i].y + this.cy);
-      println("(" + p[i].x + ", " + p[i].y + ")");
+      //println("(" + p[i].x + ", " + p[i].y + ")");
     }
   }
   
@@ -92,9 +100,15 @@ class Avatar {
     float x = this.x - this.cx;
     float y = this.y - this.cy;
     for(int i=0; i<this.joints(); i++) {
+      println("(" + p[i].x + ", " + p[i].y + ")");
       fill(255, 230, 93);
       ellipse(x + p[i].x, y + p[i].y, 10, 10);
     }
+  }
+  
+  public void drawPivots(float x, float y) {
+    draw(x, y);
+    drawPivots();
   }
   
   //test
